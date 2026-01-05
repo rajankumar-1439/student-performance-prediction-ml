@@ -99,11 +99,7 @@ Dataset Features:
 ✅Mean Squared Error (if regression)
 
 
-📊 Visualizations included for better interpretation.
-
-▶️ How to Run This Project
-
-🚀
+📊How to Run This Project
 
 Step 1: Clone Repository
 git clone https://github.com/your-username/student-performance-prediction-ml.git"
