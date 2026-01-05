@@ -57,12 +57,19 @@ Dataset Features:
 🔁 Step-by-Step Approach:
 
 1️⃣ Data Loading & Inspection
+
 2️⃣ Data Cleaning 
+
 3️⃣ Exploratory Data Analysis 
+
 4️⃣ Feature Selection & Encoding
+
 5️⃣ Train-Test Split
+
 6️⃣ Model Training (Regression / Classification)
+
 7️⃣ Model Evaluation
+
 8️⃣ Result Interpretation
 
 
