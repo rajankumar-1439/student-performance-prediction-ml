@@ -102,7 +102,7 @@ Dataset Features:
 📊How to Run This Project
 
 Step 1: Clone Repository
-git clone https://github.com/your-username/student-performance-prediction-ml.git"
+git clone https://github.com/rajankumar-1439/student-performance-prediction-ml
 
 Step 2: Navigate to Project Folder
 cd student-performance-prediction-ml
